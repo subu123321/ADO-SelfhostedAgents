@@ -4,6 +4,14 @@ This project can be used to setup a docker hosted Azure DevOps agent. It will
 start an Ubuntu Linux self-hosted agent.
 
 ---
+## Prerequisites
+
++ Docker
++ docker-compose
++ git or git bash
++ Azure DevOps account
+
+---
 
 ## Installation Steps:
 
